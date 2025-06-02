@@ -1,0 +1,7 @@
+/u/*         /u/:splat         200
+/p/*         /p/:splat         200
+/event/*     /event/:splat     200
+
+/terms       https://www.lnk.ge/terms     301!
+/privacy     https://www.lnk.ge/privacy   301!
+/            https://www.lnk.ge/          301!
